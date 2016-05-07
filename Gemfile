@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'wunderground'
 gem 'figaro'
 gem 'httparty'
 
